@@ -22,3 +22,6 @@ This project aims to predict diabetes based on features like Glucose, Insulin, A
 
 # RESULT:
 ##### From the above comparison, we can observe that SVC gets the highest accuracy of 85.71 %
+
+# Consulation
+The early prognosis of diabetes cases canaidin making decisionson lifestyle changes in high-risk patients and in turn reduce the complications, which can be a great milestone in the field of medicine. This project resolved the feature selection with balanced data behind the models and successfully predicted the diabetes cases with around 85.71% accuracy. The model was used to find the best machinelearning algorithm but among all,svc model gave the best result among all the models and hence svc model has been selected as the best model for this project
