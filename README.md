@@ -18,3 +18,7 @@ This project aims to predict diabetes based on features like Glucose, Insulin, A
 2. Cross Validation
 3. Confusion Matrix
 4. Classification Report
+
+
+# RESULT:
+##### From the above comparison, we can observe that SVC gets the highest accuracy of 85.71 %
